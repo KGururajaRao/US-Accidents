@@ -7,3 +7,4 @@ The dataset is taken from [Kaggle](https://www.kaggle.com/)
 
 Dataset [US_Accidents_Dec20_Updated.csv](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 
+![US_Accidents_Map](https://user-images.githubusercontent.com/34395248/120116887-05bef800-c1a8-11eb-9690-7bac2384b860.jpg)
